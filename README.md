@@ -16,6 +16,16 @@ Once inside, open one of the Notebooks and run one step at a time.
 
 At the end of 2 of the notebooks is a graphing functionn to plot data on a graph.
 
+## How to use this project
+
+1.  Fork my project to your GitHub account.
+2.  Add your own new separate Notebook file.
+3.  Create your Graphs
+4.  Make a pull request and I will approve and merge it into this project.
+5.  George Floyd
+
+
+
 ## Source Data
 
 https://github.com/djangofan/police-shooting-data-workspace
@@ -25,7 +35,7 @@ https://github.com/djangofan/police-shooting-data-workspace
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook
 
 
-### What is included here
+### What is included here in the Jupyter stack?
 
 Using: docker pull jupyter/datascience-notebook
 
