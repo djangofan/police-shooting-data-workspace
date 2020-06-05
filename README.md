@@ -12,7 +12,7 @@ Something like this:
 
     http://localhost:8888/?token=<<unique-id>>
 
-Once inside, open one of the Notebooks and run one step at a time.
+Once inside, open the Notebook called `Julia_Police-Shootings-Demo.ipynb` and run it one step at a time.
 
 At the end of 2 of the notebooks is a graphing functionn to plot data on a graph.
 
