@@ -15,7 +15,7 @@ At the end of 2 of the notebooks is a graphing functionn to plot data on a graph
 
 ## Source Data
 
-http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml
+https://github.com/djangofan/police-shooting-data-workspace
 
 ## Info On Jupyter
 
@@ -53,8 +53,4 @@ Using: docker pull jupyter/datascience-notebook
     IJulia to support Julia code in Jupyter notebooks
     HDF5, Gadfly, and RDatasets packages
 
-
-## NOTES
-
-Run it at scale possibly: https://github.com/jupyterhub/kubespawner
 
