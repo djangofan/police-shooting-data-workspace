@@ -1,4 +1,4 @@
-# ny-taxi-data-workspace + Docker
+# police-shooting-data-workspace + Docker
 Just a workspace where I will work on some data crunching with dockerized Jupyter notebooks.
 
 ## HOWTO In 5-minutes
