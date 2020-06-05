@@ -4,7 +4,7 @@ services:
   jupyter:
     image: jupyter/datascience-notebook
     ports:
-      - "10000:8888"
+      - "8888:8888"
     links:
       - postgres
     volumes:
