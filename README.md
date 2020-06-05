@@ -19,7 +19,7 @@ At the end of 2 of the notebooks is a graphing functionn to plot data on a graph
 ## How to use this project
 
 1.  Fork my project to your GitHub account.
-2.  Add your own new separate Notebook file.
+2.  Add your own new separate Notebook file.  Probably you should prefer R over Julia.
 3.  Create your Graphs
 4.  Make a pull request and I will approve and merge it into this project.
 5.  George Floyd
