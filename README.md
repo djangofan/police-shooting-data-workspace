@@ -12,9 +12,15 @@ Something like this:
 
     http://localhost:8888/?token=<<unique-id>>
 
-Once inside, open the Notebook called `Julia_Police-Shootings-Demo.ipynb` and run it one step at a time.
+Once inside, open the Notebook called `Julia_Police-Shootings-Demo.ipynb` and run it one step at a time.  NOTE: The first time you
+run that notebook, it might take a handful of minutes installing some stuff on the first step in the workbook where the Pkg.add 
+statements are located.
 
 At the end of 2 of the notebooks is a graphing functionn to plot data on a graph.
+
+If you are a beginner, you might want to read this:
+1. For Julia: https://docs.julialang.org/en/v1/manual/getting-started/
+2. For R: https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R
 
 ## How to use this project
 
