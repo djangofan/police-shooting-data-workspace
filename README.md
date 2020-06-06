@@ -44,7 +44,7 @@ https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupy
 
 ## Example Graph
 
-![GitHub Logo](/images/logo.png)
+![Graph](https://github.com/djangofan/police-shooting-data-workspace/blob/master/byAge5Years.png)
 
 
 ### What is included here in the Jupyter stack?
