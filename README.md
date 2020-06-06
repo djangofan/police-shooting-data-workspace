@@ -42,6 +42,11 @@ https://github.com/djangofan/police-shooting-data-workspace
 https://jupyter-docker-stacks.readthedocs.io/en/latest/using/selecting.html#jupyter-datascience-notebook
 
 
+## Example Graph
+
+![GitHub Logo](/images/logo.png)
+
+
 ### What is included here in the Jupyter stack?
 
 Using: docker pull jupyter/datascience-notebook
