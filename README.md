@@ -19,8 +19,9 @@ statements are located.
 At the end of 2 of the notebooks is a graphing functionn to plot data on a graph.
 
 If you are a beginner, you might want to read this:
-1. For Julia: https://docs.julialang.org/en/v1/manual/getting-started/
+1. For Julia: https://docs.julialang.org/en/v1/manual/getting-started/ AND https://jcharistech.wordpress.com/julia-dataframes-cheat-sheets/
 2. For R: https://support.rstudio.com/hc/en-us/articles/201141096-Getting-Started-with-R
+
 
 ## How to use this project
 
