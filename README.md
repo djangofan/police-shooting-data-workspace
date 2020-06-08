@@ -16,7 +16,7 @@ Once inside, open the Notebook called `Julia_Police-Shootings-Demo.ipynb` and ru
 run that notebook, it might take a handful of minutes installing some stuff on the first step in the workbook where the Pkg.add 
 statements are located.
 
-At the end of 2 of the notebooks is a graphing functionn to plot data on a graph.
+At the end of 2 of the notebooks is a graphing function to plot data on a graph.
 
 If you are a beginner, you might want to read this:
 1. For Julia: https://docs.julialang.org/en/v1/manual/getting-started/ AND https://jcharistech.wordpress.com/julia-dataframes-cheat-sheets/
